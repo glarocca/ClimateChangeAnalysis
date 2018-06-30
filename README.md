@@ -10,9 +10,10 @@ This repository contains python scripts used during training events.
 ## Available Exercises
 
 This repository includes the following exercises:
-- Calculate the Average Monthly Temperature in the region of interested [ENVRI-exercise_no_1](ENVRI-exercise_no_1.py) from the <a href="http://sdwebx.worldbank.org/climateportal/">Climate change Knowledge Portal</a>
-- Plot the Average Monthly Temperature and Rainfall in the region of interest
+- Calculate the Average Monthly Temperature in the region of interested [ENVRI-exercise_no_1](ENVRI-exercise_no_1.py) 
+- Plot the Average Monthly Temperature and Rainfall in the region of interest [ENVRI-exercise_no_2](ENVRI-exercise_no_2.py)
 
+Datasets are collected from the <a href="http://sdwebx.worldbank.org/climateportal/">Climate change Knowledge Portal</a>.
 
 ## Contribute
 - Fork it
